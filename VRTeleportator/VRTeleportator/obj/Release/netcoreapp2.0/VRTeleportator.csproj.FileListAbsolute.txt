@@ -1,0 +1,21 @@
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.deps.json
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.runtimeconfig.json
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.runtimeconfig.dev.json
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.dll
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.pdb
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.csproj.CoreCompileInputs.cache
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.AssemblyInfoInputs.cache
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.AssemblyInfo.cs
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.dll
+C:\Users\RealityShift8\Desktop\Разработки\Проекты\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.pdb
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.deps.json
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.runtimeconfig.json
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.runtimeconfig.dev.json
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.dll
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\bin\Release\netcoreapp2.0\VRTeleportator.pdb
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.csprojResolveAssemblyReference.cache
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.csproj.CoreCompileInputs.cache
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.AssemblyInfoInputs.cache
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.AssemblyInfo.cs
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.dll
+D:\Unity\Imagine cup\VRTeleportator\VRTeleportator\obj\Release\netcoreapp2.0\VRTeleportator.pdb
